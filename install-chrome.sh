@@ -4,4 +4,5 @@ sudo apt-get install -f
 sudo dpkg -i google-chrome*.deb
 sudo apt-get -y update
 sudo apt-get -y install terminator
+sudo apt-get -f install
 
